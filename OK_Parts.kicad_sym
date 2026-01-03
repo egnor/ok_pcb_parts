@@ -3285,16 +3285,16 @@
 			)
 		)
 		(property "Value" "FT232RNQ"
-			(at 0 0 0)
+			(at 0 3.048 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm"
-			(at 0 0 0)
+			(at 0 -43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3303,7 +3303,7 @@
 			)
 		)
 		(property "Datasheet" "https://ftdichip.com/wp-content/uploads/2024/12/DS_FT232RN.pdf"
-			(at 0 0 0)
+			(at 0 -45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3312,7 +3312,7 @@
 			)
 		)
 		(property "Description" "USB to serial UART interface"
-			(at 0 0 0)
+			(at 0 -48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
