@@ -1325,7 +1325,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "FT232RNQ"
+	(symbol "USB_Serial_FTDI_FT232RNQ"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
