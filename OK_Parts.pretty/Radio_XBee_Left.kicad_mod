@@ -16,7 +16,8 @@
 		)
 	)
 	(property "Value" "XBee_L"
-		(at 0 8.5 0)
+		(at -13 5.2 270)
+		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "478a8e99-7eb0-43bd-a01b-b3826dd3a654")
 		(effects
@@ -133,22 +134,22 @@
 		(uuid "2dcce865-2d22-4249-bf39-ad6108e55bf8")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "NRES"
+	(fp_text user "~{RESET}"
 		(at 1 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "33a91829-5793-4a61-a625-18043b07503d")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
@@ -161,105 +162,105 @@
 		(uuid "80e4b065-4c1b-4aba-af1a-d7a9036e1862")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "DIN"
+	(fp_text user "14/DIN/~{CF}"
 		(at 5 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "9e585053-7ee4-4f75-b80c-c8cf472dfdcd")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "DOUT"
+	(fp_text user "13/DOUT"
 		(at 7 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a00b9657-aed9-49a8-9c0f-4eb973ec6882")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "10/P0"
+	(fp_text user "10/P0/RSSI/UV"
 		(at -1 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a02b83c1-9fb2-4c21-9ff5-59e2b44d8b21")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "NC"
+	(fp_text user "U-"
 		(at -5 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a34eb032-43d6-4152-a80b-48883aa25bf9")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "11/P1"
+	(fp_text user "11/P1/SDA/U+"
 		(at -3 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ab76ec96-5253-4649-bbfb-50c9f68d9011")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "NDTR/SRQ"
+	(fp_text user "8/~{DTR}/SLRQ"
 		(at -7 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ccc067f9-8552-417a-bca0-1209d9eb42b8")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)
 		)
 	)
-	(fp_text user "12"
+	(fp_text user "12/MISO/RX2"
 		(at 3 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "cebbd5cb-05b8-4ed4-a19f-91a3f9a97dff")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify left)

@@ -16,7 +16,8 @@
 		)
 	)
 	(property "Value" "XBee_R"
-		(at 0 -9 0)
+		(at -13 -4.8 270)
+		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "478a8e99-7eb0-43bd-a01b-b3826dd3a654")
 		(effects
@@ -126,141 +127,141 @@
 		(layer "F.CrtYd")
 		(uuid "647b40a4-5350-4084-9b86-7458d94cc70a")
 	)
-	(fp_text user "2"
-		(at 5 -1.4 270)
+	(fp_text user "~{RTS2}/SCK/2"
+		(at 5 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "2b95ce68-a7b4-441c-84e1-0d3c46b75cb4")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "NCTS/7"
-		(at -7 -1.4 270)
+	(fp_text user "~{CTS}/7"
+		(at -7 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "2ba48dd3-da37-435f-a365-58f2311d4b0e")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "4"
-		(at -9 -1.4 270)
+	(fp_text user "TX2/MOSI/4"
+		(at -9 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "35e63f71-b758-4bbb-afb5-42f500b088c1")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "BUT/0"
-		(at 9 -1.4 270)
+	(fp_text user "CBUTTON/0"
+		(at 9 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "632c72eb-2918-4ddd-a97e-79aaf3f5cb54")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "NRTS/6"
-		(at 1 -1.4 270)
+	(fp_text user "~{RTS}/6"
+		(at 1 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "827fb381-7e26-4247-8444-10cccaa6ac3f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "1"
-		(at 7 -1.4 270)
+	(fp_text user "SCL/~{ATT}/1"
+		(at 7 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "999770c0-cfda-4506-8f48-798990851c85")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "3"
-		(at 3 -1.4 270)
+	(fp_text user "~{CTS2}/SS/3"
+		(at 3 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a6711ea3-2962-4aad-ae47-0a58cf52b0d8")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "ASC/5"
-		(at -1 -1.4 270)
+	(fp_text user "ASS/5"
+		(at -1 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ad514934-0be7-4173-bbe5-d6274a43e71e")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
-	(fp_text user "ON"
-		(at -5 -1.4 270)
+	(fp_text user "ON/9"
+		(at -5 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e2e45b6c-fec1-43f9-b024-07c76ddaacfe")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
 		)
 	)
 	(fp_text user "VREF"
-		(at -3 -1.4 270)
+		(at -3 -1.6 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e5caac63-4250-4ea1-9188-63fdb246fbe6")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.8 0.8)
+				(thickness 0.16)
 				(bold yes)
 			)
 			(justify right)
