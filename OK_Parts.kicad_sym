@@ -2738,7 +2738,7 @@
 	)
 	(symbol "Radio_XBee_Left"
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -10.16 19.05 0)
@@ -3006,7 +3006,7 @@
 	)
 	(symbol "Radio_XBee_Right"
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
 			(at 10.16 19.05 0)
