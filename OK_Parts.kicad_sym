@@ -2842,7 +2842,7 @@
 			(pin output line
 				(at -16.51 8.89 0)
 				(length 2.54)
-				(name "13/TX"
+				(name "13/XOUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2860,7 +2860,7 @@
 			(pin input line
 				(at -16.51 6.35 0)
 				(length 2.54)
-				(name "14/RX/~{CF}"
+				(name "14/XIN/~{CF}"
 					(effects
 						(font
 							(size 1.27 1.27)

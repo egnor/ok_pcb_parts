@@ -168,7 +168,7 @@
 			(justify left)
 		)
 	)
-	(fp_text user "14/DIN/~{CF}"
+	(fp_text user "14/XIN/~{CF}"
 		(at 5 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -182,7 +182,7 @@
 			(justify left)
 		)
 	)
-	(fp_text user "13/DOUT"
+	(fp_text user "13/XOUT"
 		(at 7 1.5 270)
 		(unlocked yes)
 		(layer "F.SilkS")
