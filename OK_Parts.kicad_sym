@@ -3548,16 +3548,16 @@
 				)
 			)
 			(pin power_in line
-				(at -3.81 21.59 270)
+				(at -2.54 21.59 270)
 				(length 2.54)
-				(name "VCCIO"
+				(name "VCC"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "1"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3643,14 +3643,14 @@
 			(pin power_in line
 				(at 0 21.59 270)
 				(length 2.54)
-				(name "VCC"
+				(name "VCCIO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "19"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3676,6 +3676,24 @@
 					)
 				)
 			)
+			(pin output line
+				(at 2.54 21.59 270)
+				(length 2.54)
+				(name "3V3OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin input line
 				(at 2.54 -21.59 90)
 				(length 2.54)
@@ -3687,24 +3705,6 @@
 					)
 				)
 				(number "26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at 3.81 21.59 270)
-				(length 2.54)
-				(name "3V3OUT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
 					(effects
 						(font
 							(size 1.27 1.27)
