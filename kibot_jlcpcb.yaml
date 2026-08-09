@@ -36,7 +36,7 @@ global:
       regex: "Ignoring"
 
 #
-# Output files for JLCPCB (extend the rules imported earlier) 
+# Output files for JLCPCB (extend the rules imported earlier)
 #
 outputs:
   - name: "jlcpcb_layers"
@@ -74,7 +74,7 @@ outputs:
     extends: "_JLCPCB_bom"
     disable_run_by_default: "_JLCPCB_bom"
     options:
-      group_fields:  # add LCSC to the default list
+      group_fields: # add LCSC to the default list
         - part
         - part lib
         - value
